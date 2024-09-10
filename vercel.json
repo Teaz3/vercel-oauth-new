@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "/callback.js" },
+      { "source": "/callback", "destination": "/callback.js" }
+    ]
+  }
